@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<offer_id>1001</offer_id>
+		<name>Шляпа</name>
+		<description>размер s m l</description>
+		<picture_title>https://s1.1zoom.ru/big0/930/Coast_Sunrises_and_sunsets_Waves_USA_Ocean_Kaneohe_521540_1280x775.jpg</picture_title>
+		<picture_title2>https://millionstatusov.ru/pic/statpic/all/58e61335ec518.jpg</picture_title2>
+		<picture_title3>https://s00.yaplakal.com/pics/pics_original/5/5/3/8037355.jpg</picture_title3>
+		<picture_title4>http://cdn.fishki.net/upload/post/2017/03/19/2245758/tn/01-beautiful-white-cat-imagescar-wallpaper.jpg</picture_title4>
+		<picture_title5>http://minionomaniya.ru/wp-content/uploads/2015/10/картинки-из-мультфильма-миньоны-2015.jpg</picture_title5>
+		<price>1150</price>
+	</Row>
+	<Row>
+		<offer_id>1002</offer_id>
+		<name>Трусы</name>
+		<description>размер m l</description>
+		<picture_title>http://bm.img.com.ua/nxs/img/prikol/images/large/3/9/315193.jpg</picture_title>
+		<picture_title2>https://s1.1zoom.ru/big0/930/Coast_Sunrises_and_sunsets_Waves_USA_Ocean_Kaneohe_521540_1280x775.jpg</picture_title2>
+		<picture_title3>http://cdn.fishki.net/upload/post/2017/03/19/2245758/tn/01-beautiful-white-cat-imagescar-wallpaper.jpg</picture_title3>
+		<picture_title4>http://minionomaniya.ru/wp-content/uploads/2015/10/картинки-из-мультфильма-миньоны-2015.jpg</picture_title4>
+		<picture_title5>https://s1.1zoom.ru/big0/930/Coast_Sunrises_and_sunsets_Waves_USA_Ocean_Kaneohe_521540_1280x775.jpg</picture_title5>
+		<price>1250</price>
+	</Row>
+	<Row>
+		<offer_id>1003</offer_id>
+		<name>Кеды</name>
+		<description>размер m</description>
+		<picture_title>http://cdn.fishki.net/upload/post/2017/03/19/2245758/tn/01-beautiful-white-cat-imagescar-wallpaper.jpg</picture_title>
+		<picture_title2>https://s1.1zoom.ru/big0/930/Coast_Sunrises_and_sunsets_Waves_USA_Ocean_Kaneohe_521540_1280x775.jpg</picture_title2>
+		<picture_title3>http://bm.img.com.ua/nxs/img/prikol/images/large/3/9/315193.jpg</picture_title3>
+		<picture_title4>http://minionomaniya.ru/wp-content/uploads/2015/10/картинки-из-мультфильма-миньоны-2015.jpg</picture_title4>
+		<picture_title5>https://s00.yaplakal.com/pics/pics_original/5/5/3/8037355.jpg</picture_title5>
+		<price>500</price>
+	</Row>
+</Root>
